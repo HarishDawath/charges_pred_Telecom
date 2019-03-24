@@ -1,0 +1,22 @@
+name,count,mean,std,min,max,unique,freq,top
+customerID,5634,,,,,5634,1,0002-ORFBO
+gender,5634,,,,,2,2861,Male
+SeniorCitizen,5634,0.1615193468228612,0.36804196747957646,False,True,2,910,
+Partner,5634,,,,,2,2759,No
+Dependents,5634,,,,,2,1684,No
+tenure,5634,32.35214767483138,24.530338364331993,0,72,73,487,
+PhoneService,5634,,,,,2,5093,Yes
+MultipleLines,5634,,,,,3,2739,No
+InternetService,5634,,,,,3,2486,Fiber optic
+OnlineSecurity,5634,,,,,3,2796,No
+OnlineBackup,5634,,,,,3,2472,No
+DeviceProtection,5634,,,,,3,2480,No
+TechSupport,5634,,,,,3,2784,No
+StreamingTV,5634,,,,,3,2230,No
+StreamingMovies,5634,,,,,3,2224,No
+Contract,5634,,,,,3,3099,Month-to-month
+PaperlessBilling,5634,,,,,2,3325,Yes
+PaymentMethod,5634,,,,,4,1904,Electronic check
+MonthlyCharges,5634,64.64361909833156,30.136046375734328,18.25,118.75,1482,49,
+TotalCharges,5627,2270.987870979213,2259.6944594435613,18.8,8684.8,5305,10,
+Churn,5634,,,,,2,1506,No
